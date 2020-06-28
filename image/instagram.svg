@@ -2,7 +2,7 @@
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
   <defs>
     <bx:grid x="-96.568" y="-5.038" width="90.331" height="103.088"/>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="251.782" y1="25.002" x2="251.782" y2="500" id="gradient-0">
+    <linearGradient gradientUnits="userSpaceOnUse" x1="251.782" y1="25.002" x2="251.782" y2="500" id="gradient-0" gradientTransform="matrix(0.9995, 0.033055, -0.015701, 0.518363, 7.976469, 232.496024)">
       <stop offset="0" style="stop-color: rgba(147, 21, 141, 1)"/>
       <stop offset="1" style="stop-color: rgba(58, 8, 55, 1)"/>
     </linearGradient>
