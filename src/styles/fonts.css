@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'MuliExtraLight';
+    src: url("../assets/fonts/Muli-ExtraLight.eot"); /* IE9 Compat Modes */
+    src: url("../assets/fonts/Muli-ExtraLight.eot") format("embedded-opentype"), /* IE6-IE8 */
+      url("../assets/fonts/Muli-ExtraLight.otf") format("opentype"), /* Open Type Font */
+    
+      url("../assets/fonts/Muli-ExtraLight.ttf") format("truetype"), /* Safari, Android, iOS */
+      url("fonts/Muli-ExtraLight.woff") format("woff"), /* Modern Browsers */
+      url("fonts/Muli-ExtraLight.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'FontAwesome';
+    
+   
+      
+    src: url("../assets/fonts/fontawesome-webfont.eot") format("embedded-opentype"), /* IE6-IE8 */
+      url("../assets/fonts/fontawesome-webfont.otf") format("opentype"), /* Open Type Font */
+     
+      url("../assets/fonts/fontawesome-webfont.ttf") format("truetype"), /* Safari, Android, iOS */
+      url("../assets/fonts/fontawesome-webfont.woff") format("woff"), /* Modern Browsers */
+      url("../assets/fonts/fontawesome-webfont.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+  }
